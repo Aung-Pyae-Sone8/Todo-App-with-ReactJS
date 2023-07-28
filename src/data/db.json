@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "id": 0.6808042106708962,
+      "title": "go to school",
+      "completed": true
+    },
+    {
+      "id": 0.8180512412993768,
+      "title": "go to work",
+      "completed": false
+    }
+  ]
+}
